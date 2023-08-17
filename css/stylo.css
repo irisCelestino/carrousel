@@ -21,3 +21,13 @@ li{
 display:block;
 list-style: none;
 }
+
+button.prev,button.next{
+    display: flex;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #333;
+    
+}
